@@ -32,5 +32,5 @@ Training loss and validation loss, both seem to be almost exact which means ther
 
 # Visualizing the Effect of Denoising:
 
-## Final image after removing the noise
+Final image after removing the noise
 ![image](https://user-images.githubusercontent.com/42618752/188330940-c1d35bbd-6100-488a-ad1c-b83ac8018430.png)
