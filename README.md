@@ -1,4 +1,4 @@
-# fashion_image_denoising
+# De-noising images using Autoencoders
 Steps for doing the code
 1. Retrieve the data
 Once, we retrieve the data from tensorflow.keras.datasets, we need to rescale the values of pixel range from (0-255) to (0,1), and for such we will divide all the pixel values with 255.0 to normalize them. NOTE: As autoencoders are capable of unsupervised learning (without Labels) and this is what we wish to achieve through this article, we will ignore labels from the training and testing dataset for fashionMNIST.
